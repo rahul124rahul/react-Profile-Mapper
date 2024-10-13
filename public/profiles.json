@@ -1,0 +1,95 @@
+[
+	{
+	  "id": 1,
+	  "name": "Rahul Mehra",
+	  "image": "https://via.placeholder.com/100/1E3A8A/FFFFFF?text=RM&font=monospace",
+	  "description": "Full Stack Developer at FinTech Company",
+	  "location": { "lat": 28.7041, "lng": 77.1025 }, 
+	  "contact": "rahul.mehra@example.com",
+	  "interests": ["Coding", "Cricket"]
+	},
+	{
+	  "id": 2,
+	  "name": "Priya Shah",
+	  "image": "https://via.placeholder.com/100/10B981/FFFFFF?text=PS&font=monospace",
+	  "description": "Data Scientist at Analytics Firm",
+	  "location": { "lat": 19.0760, "lng": 72.8777 }, 
+	  "contact": "priya.shah@example.com",
+	  "interests": ["Data Science", "Photography"]
+	},
+	{
+	  "id": 3,
+	  "name": "Amit Joshi",
+	  "image": "https://via.placeholder.com/100/F97316/FFFFFF?text=AJ&font=monospace",
+	  "description": "DevOps Engineer at IT Services",
+	  "location": { "lat": 22.5726, "lng": 88.3639 }, 
+	  "contact": "amit.joshi@example.com",
+	  "interests": ["Automation", "Traveling"]
+	},
+	{
+	  "id": 4,
+	  "name": "Sneha Rao",
+	  "image": "https://via.placeholder.com/100/7C3AED/FFFFFF?text=SR&font=monospace",
+	  "description": "Marketing Specialist at E-commerce Startup",
+	  "location": { "lat": 13.0827, "lng": 80.2707 }, 
+	  "contact": "sneha.rao@example.com",
+	  "interests": ["Marketing", "Yoga"]
+	}
+	,
+	{
+	  "id": 5,
+	  "name": "Vikram Singh",
+	  "image": "https://via.placeholder.com/100/EF4444/FFFFFF?text=VS&font=monospace",
+	  "description": "Software Engineer at Product Company",
+	  "location": { "lat": 26.9124, "lng": 75.7873 }, 
+	  "contact": "vikram.singh@example.com",
+	  "interests": ["Coding", "Football"]
+	},
+	{
+	  "id": 6,
+	  "name": "Kavita Gupta",
+	  "image": "https://via.placeholder.com/100/EC4899/FFFFFF?text=KG&font=monospace",
+	  "description": "UX Designer at Mobile App Development Firm",
+	  "location": { "lat": 12.9716, "lng": 77.5946 }, 
+	  "contact": "kavita.gupta@example.com",
+	  "interests": ["Design", "Cooking"]
+	},
+	{
+	  "id": 7,
+	  "name": "Rajesh Kumar",
+	  "image": "https://via.placeholder.com/100/14B8A6/FFFFFF?text=RK&font=monospace",
+	  "description": "Project Manager at Consulting Firm",
+	  "location": { "lat": 25.3176, "lng": 82.9739 }, 
+	  "contact": "rajesh.kumar@example.com",
+	  "interests": ["Management", "Running"]
+	},
+	{
+	  "id": 8,
+	  "name": "Neha Patel",
+	  "image": "https://via.placeholder.com/100/FACC15/000000?text=NP&font=monospace",
+	  "description": "Front-End Developer at SaaS Company",
+	  "location": { "lat": 21.1702, "lng": 72.8311 }, 
+	  "contact": "neha.patel@example.com",
+	  "interests": ["Coding", "Painting"]
+	},
+	{
+	  "id": 9,
+	  "name": "Anil Verma",
+	  "image": "https://via.placeholder.com/100/8B5CF6/FFFFFF?text=AV&font=monospace",
+	  "description": "Cybersecurity Specialist at Tech Security Firm",
+	  "location": { "lat": 30.7333, "lng": 76.7794 }, 
+	  "contact": "anil.verma@example.com",
+	  "interests": ["Cybersecurity", "Chess"]
+	},
+	{
+	  "id": 10,
+	  "name": "Shalini Nair",
+	  "image": "https://via.placeholder.com/100/60A5FA/FFFFFF?text=SN&font=monospace",
+	  "description": "Product Manager at FinTech Startup",
+	  "location": { "lat": 9.9312, "lng": 76.2673 }, 
+	  "contact": "shalini.nair@example.com",
+	  "interests": ["Product Management", "Reading"]
+	}
+]
+
+ 
